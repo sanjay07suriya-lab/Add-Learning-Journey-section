@@ -1,2 +1,8 @@
 # Add-Learning-Journey-section
-my learning journey
+## My Learning Journey
+
+- Learning Java programming.
+- Practicing Data Structures and Algorithms.
+- Improving problem-solving skills.
+- Exploring Artificial Intelligence and Data Science.
+- Learning Git and GitHub collaboration.
